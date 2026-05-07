@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Andrew Khalifa 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Andrew+Khalifa+👋;Computer+Engineering+Student+%40+AUC;Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ### 💻 Computer Engineering Student @ AUC · Cairo, Egypt
 
@@ -30,18 +30,6 @@
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,git,github,visualstudio,vscode,qt,latex)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewkhalifa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkhalifa&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
